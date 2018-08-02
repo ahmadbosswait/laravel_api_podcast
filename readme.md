@@ -38,7 +38,16 @@ Version Controlled (Git)
 Update episode metadata
 Remove episode
 
+## Screenshots
 
+### Main 
+![main](https://user-images.githubusercontent.com/30505428/43606751-2800d4f2-9694-11e8-9faf-0860d8c67705.jpg)
+
+### Index
+![episode](https://user-images.githubusercontent.com/30505428/43606756-2adf4014-9694-11e8-9a51-c95ea6e43407.jpg)
+
+### Dashboard
+![dashboard](https://user-images.githubusercontent.com/30505428/43606760-2c9380be-9694-11e8-9c7b-4b23c0e28acb.jpg)
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
