@@ -29,14 +29,14 @@ I use Database Seeding to create dummy data.
 
 ## Functions
 
-Create new episode
-Register and Log-in users
-List all episodes
-JSON requests & responses
-Store episodes in Database (MySQL)
-Version Controlled (Git)
-Update episode metadata
-Remove episode
+- Create new episode
+- Register and Log-in users
+- List all episodes
+- JSON requests & responses
+- Store episodes in Database (MySQL)
+- Version Controlled (Git)
+- Update episode metadata
+- Remove episode
 
 ## Screenshots
 
